@@ -1,14 +1,34 @@
 # Hi, I'm Nada Osama 👋
 
+<img src="https://komarev.com/ghpvc/?username=nada-osama00&style=for-the-badge&color=512BD4" alt="Profile views" align="right" />
+
 **Full-Stack .NET Developer | ASP.NET Core · Angular**
 
 I build web applications with **ASP.NET Core** backends and **Angular** frontends, with a strong foundation in **Clean/Onion Architecture**, RESTful API design, and OOP — including hands-on work with authentication, subscription flows, and bilingual (Arabic/English) systems.
 
 - 🎓 **ITI (Information Technology Institute)** — Full-Stack .NET Development & Generative AI intensive program *(Jan – Jul 2026)*
 - 🚧 Currently building an **Expense Tracker** — ASP.NET Core Web API with Onion Architecture — deploying soon
-- 🌍 Qena, Egypt · Arabic (native) · English (C1) · Open to **remote full-stack / backend .NET roles**
+- 🌍 **Remote-ready:** Qena, Egypt (UTC+2 / EET) · English **C1 – Professional Working Proficiency** · Arabic (native)
+- 💼 Open to **remote full-stack / backend .NET roles**
 
----
+## 📊 GitHub Analytics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nada-osama00&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-osama00&layout=compact&langs_count=8&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=nada-osama00&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nada-osama00&hide_border=true&area=true&line=512BD4&point=DD0031" alt="Contribution graph" width="100%" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=nada-osama00&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -27,9 +47,13 @@ I build web applications with **ASP.NET Core** backends and **Angular** frontend
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Architecture & Patterns:** Clean / Onion Architecture · SOLID · Repository Pattern
-**Auth & Data:** ASP.NET Identity · JWT · Role-Based Access Control · EF Core Migrations
-**Also:** FluentValidation · Mapster · Scalar · Standalone Components · OnPush Change Detection
+## 🧭 How I Work
+
+- **Architecture:** Clean / Onion Architecture · SOLID principles · Repository pattern · layered separation on every project
+- **Security & auth:** ASP.NET Identity · JWT · Role-Based Access Control
+- **Quality:** FluentValidation on all user input · unit testing · API documentation with Scalar & Postman
+- **Collaboration:** Git feature-branch workflow with pull requests · code reviews on team projects · Agile team experience at ITI
+- **Data:** SQL Server · EF Core with migrations · Mapster for clean DTO mapping
 
 ## 🚀 Featured Projects
 
@@ -42,12 +66,10 @@ I build web applications with **ASP.NET Core** backends and **Angular** frontend
 | [Interactive Contact Form](https://github.com/nada-osama00/ITI-JavaScript-Interactive-Contact-Us-Form) | Interactive form with validation and dark mode | JavaScript, HTML, CSS |
 | [Library Management System](https://github.com/nada-osama00/Library-Management-System) | Console-based library system — borrowing, returns, members | C# |
 
-## 📊 GitHub Stats
+## 🎓 Education & Training
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nada-osama00&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-osama00&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
+- **ITI — Information Technology Institute** · Full-Stack .NET Development & Generative AI, Intensive Program *(Jan – Jul 2026)*
+- Continuous practice: Angular challenges, data structures & algorithms, problem solving
 
 ## 📫 Reach Me
 
